@@ -10,7 +10,9 @@ Trace is a Go package for tracking emails sent by your organization. It is curre
 We welcome contributions to Trace! Please see our contribution guidelines for more information.
 
 # License
-Trace is licensed under the MIT License.
+Trace is licensed under the [MIT License](https://github.com/ugurkorkmaz/trace/blob/main/LICENSE).
 
 # Donation
-If you find Trace useful, consider donating to support the project development: (Sponsor)[https://github.com/sponsors/ugurkorkmaz].
+If you find Trace useful, consider donating to support the project development.
+
+- Ethereum: 0xe3f1e058CfC78fE808e5FA652E025fF0C63Dfd16
